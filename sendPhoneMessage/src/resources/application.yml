@@ -1,0 +1,7 @@
+
+server:
+  context-path: /phoneMes
+  port: 9090
+spring:
+  profiles:
+    active: dev
